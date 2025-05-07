@@ -22,8 +22,8 @@ An automated bot for the Ping Network VPN service to earn points and potentially
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/airdropinsiders/PingNetwork-Auto-Bot.git
-cd PingNetwork-Auto-Bot
+git clone https://github.com/BidyutRoy2/ping-network.git
+cd ping-network
 ```
 
 2. Install dependencies:
@@ -65,11 +65,3 @@ The bot provides color-coded console output:
 - ✗ Error messages
 - ⟳ Loading/process messages
 - ➤ Step-by-step execution
-
-## Contributing 🤝
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
-
-## License 📄
-
-MIT © [Airdrop Insiders](https://github.com/airdropinsiders)
