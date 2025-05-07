@@ -21,30 +21,38 @@ An automated bot for the Ping Network VPN service to earn points and potentially
 ## Installation 🛠️
 
 1. Clone the repository:
-```bash
+```
 git clone https://github.com/BidyutRoy2/ping-network.git
 cd ping-network
 ```
 
 2. Install dependencies:
-```bash
+```
 npm install
 ```
 
-3. Create a `.env` file (or it will be auto-generated):
+3. Open .env File and Save Your Ping Netwrok User ID (CTRL+X+Y+ENTER)
 
 ```
 nano .env
 ```
 
-```bash
-USER_ID=  # Your Ping Network user ID
-DEVICE_ID=     # Will be auto-generated if empty
+```
+USER_ID= Your Ping Network user ID 12345
+DEVICE_ID= Will be auto-generated if empty
 ```
 
-## Usage 🚀
+4. How to Find Your User ID
+- Open Extsnsion in Browser
+```
+chrome-extension://geeedmdpncfeomhgbjeafcahepjelimg/popup.html
+```
+- Open Inspact Mode - Ctrl + Shift + C
+  
+![image](https://github.com/user-attachments/assets/29e56f2f-ce84-45a0-aed5-583e5d4e09f7)
 
-Start the bot:
+
+5. Start the bot
 ```bash
 npm start
 ```
@@ -55,12 +63,6 @@ The bot will:
 - Send periodic analytics events
 - Maintain connection with heartbeat pings
 - Automatically reconnect if disconnected
-
-## Configuration ⚙️
-
-You can modify these values in `.env`:
-- `USER_ID`: Your Ping Network user ID
-- `DEVICE_ID`: Unique device identifier (auto-generated)
 
 ## Logging 📝
 
