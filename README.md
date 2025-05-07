@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/5c8ec54b-9181-4046-8bae-88e2ca69ac86)
 
-## Register Link : [HERE](https://t.me/hiddengemnews/13783)
+## Download the Extention and use my code ``5RX531`` : [HERE](https://chromewebstore.google.com/detail/ping-network-vpn/geeedmdpncfeomhgbjeafcahepjelimg)
 
 ## Features ✨
 
