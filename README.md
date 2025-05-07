@@ -1,6 +1,8 @@
-# Ping Network Auto Bot 🤖
+# Ping Network Auto Bot
 
-An automated bot for the Ping Network VPN service to earn points and potentially qualify for airdrops.
+![image](https://github.com/user-attachments/assets/5c8ec54b-9181-4046-8bae-88e2ca69ac86)
+
+## Register Link : [HERE](https://t.me/hiddengemnews/13783)
 
 ## Features ✨
 
@@ -47,7 +49,7 @@ DEVICE_ID= Will be auto-generated if empty
 ```
 chrome-extension://geeedmdpncfeomhgbjeafcahepjelimg/popup.html
 ```
-- Open Inspact Mode - Ctrl + Shift + C
+- Open Inspact Mode (Ctrl + Shift + C)
   
 ![image](https://github.com/user-attachments/assets/29e56f2f-ce84-45a0-aed5-583e5d4e09f7)
 
