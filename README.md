@@ -32,6 +32,11 @@ npm install
 ```
 
 3. Create a `.env` file (or it will be auto-generated):
+
+```
+nano .env
+```
+
 ```bash
 USER_ID=  # Your Ping Network user ID
 DEVICE_ID=     # Will be auto-generated if empty
@@ -41,7 +46,7 @@ DEVICE_ID=     # Will be auto-generated if empty
 
 Start the bot:
 ```bash
-node index.js
+npm start
 ```
 
 The bot will:
